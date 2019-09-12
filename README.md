@@ -11,6 +11,10 @@ HdxSpider是用于爬取“好大学在线“课程爬虫
 2.输入用户名和密码，即可爬取该账号下地课程
 
 3.课程保存目录为当前程序运行路径下Data目录
+# 运行截图
+![Image text](https://raw.githubusercontent.com/Bmixo/HdxSpider/master/help/pic/1.PNG)
+
+![Image text](https://raw.githubusercontent.com/Bmixo/HdxSpider/master/help/pic/2.PNG)
 
 # 其他
 好大学在线
